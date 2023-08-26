@@ -1,0 +1,9 @@
+{
+    "1": {
+        "title": "my post",
+        "location": "school",
+        "description": "a study group",
+        "max capacity": 10,
+        "tags": ["small", "student"]
+    }
+}
